@@ -6,12 +6,16 @@ yarn-error.log
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
-
+# resources/views/errors/*.*.back.php
+resources/views/*.*.back.php
+resources/views/*/*.*.back.php
+# *.*.back
 # Laravel 5 & Lumen specific
 public/storage
 public/hot
 storage/*.key
 .env
+package-lock.json
 Homestead.yaml
 Homestead.json
 /.vagrant
