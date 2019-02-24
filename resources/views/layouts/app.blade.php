@@ -42,9 +42,9 @@
 </body>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
 <script>
-// $(document).ready(function() {
-// $("head").append("<link rel='preload' href='css/style.css' as='style' />").append("<link rel='preload' href='css/fons.css' as='style' />").append("<link rel='preload' href='css/naviki.css' as='style' />").append('<link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="preload" as="style" type="text/css">').append('<link rel="preload" as="style" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">').append('<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">');
-// });
+$(document).ready(function() {
+$("head").append("<link rel='preload' href='css/style.css' as='style' />").append("<link rel='preload' href='css/fons.css' as='style' />").append("<link rel='preload' href='css/naviki.css' as='style' />").append('<link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="preload" as="style" type="text/css">').append('<link rel="preload" as="style" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">').append('<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">');
+});
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>

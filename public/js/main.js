@@ -4,9 +4,7 @@ $.ajaxSetup({
     }
 });
 
-$(document).ready(function() {
-$("head").append("<link rel='preload' href='css/style.css' as='style' />").append("<link rel='preload' href='css/fons.css' as='style' />").append("<link rel='preload' href='css/naviki.css' as='style' />").append('<link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="preload" as="style" type="text/css">').append('<link rel="preload" as="style" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">').append('<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">');
-});
+
 
 $(document).ready(function(){
   $('body').append('<a href="#" id="go-top" title="Вверх">Вверх</a>');
