@@ -1,10 +1,7 @@
 @extends('layouts.app')
-@section('title')
-{{trans('Немного о себе')}}
-@stop
+@section('title', 'Чуток о себе')
 
-@section('description', 'О успехах человека с ником morepozitiva')
-@section('keywords', 'обо мне, портфолио, резюме')
+
 @section('name')
 Обо мне
 @endsection

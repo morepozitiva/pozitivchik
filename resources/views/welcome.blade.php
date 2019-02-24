@@ -1,10 +1,6 @@
 @extends('layouts.app')
-@section('title')
-{{trans('Главная')}}
-@stop
+@section('title', 'Позитивчик')
 
-@section('description', 'О успехах человека с ником morepozitiva')
-@section('keywords', 'фото, сайты, сайт, создание, портфолио, резюме')
 
 @section('work1')
 Адмирал - Участки на Горьковском море <br/> <div class='linksp'><a href='http://nn-admiral.ru' target='_blank'>Сайт</a></div>

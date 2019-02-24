@@ -1,10 +1,7 @@
 @extends('layouts.app')
-@section('title')
-{{trans('Портфолио morepozitiva')}}
-@stop
+@section('title', 'Портфолио')
 
-@section('description', 'Портфолио morepozitiva')
-@section('keywords', 'портфолио, резюме, сайты, сделано')
+
 
 @section('name')
 Портфолио
