@@ -64,20 +64,20 @@ PuzzlePlast <br/> <div class='linksp'><a href='http://puzzle-plast.ru' target='_
             </div>
             <div class="row">
 
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/admiral.png') }}" alt="" title="@yield('work1')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/knyajevo.png') }}" alt="" title="@yield('work2')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/Ecoproject.png') }}" alt="" title="@yield('work3')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/stroysad.png') }}" alt="" title="@yield('work4')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/aqanau.png') }}" alt="" title="@yield('work5')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/alvero-crimea.png') }}" alt="" title="@yield('work6')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/puzzleplast.png') }}" alt="" title="@yield('work7')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/romaklik.jpg') }}" alt="" title="@yield('work8')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/avtopilot.png') }}" alt="" title="@yield('work9')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/natali.jpg') }}" alt="" title="@yield('work10')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/ruta.jpg') }}" alt="" title="@yield('work11')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/interstroy4562.gif') }}" alt="" title="@yield('work12')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/phasad_baner25.png') }}" alt="" title="@yield('work13')"></div>
-                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ asset('images/thumb/afisha-hudoghnik.jpg') }}" alt="" title="@yield('work14')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/admiral.png') }}" alt="" title="@yield('work1')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/knyajevo.png') }}" alt="" title="@yield('work2')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/Ecoproject.png') }}" alt="" title="@yield('work3')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/stroysad.png') }}" alt="" title="@yield('work4')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/aqanau.png') }}" alt="" title="@yield('work5')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/alvero-crimea.png') }}" alt="" title="@yield('work6')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/puzzleplast.png') }}" alt="" title="@yield('work7')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/romaklik.jpg') }}" alt="" title="@yield('work8')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/avtopilot.png') }}" alt="" title="@yield('work9')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/natali.jpg') }}" alt="" title="@yield('work10')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/ruta.jpg') }}" alt="" title="@yield('work11')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/interstroy4562.gif') }}" alt="" title="@yield('work12')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/phasad_baner25.png') }}" alt="" title="@yield('work13')"></div>
+                <div class="colls works wow zoomIn" data-wow-duration="2s" data-wow-delay=".5s" data-wow-offset="10"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/afisha-hudoghnik.jpg') }}" alt="" title="@yield('work14')"></div>
             </div>
         </div>
 
