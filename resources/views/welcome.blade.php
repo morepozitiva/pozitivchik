@@ -31,9 +31,9 @@
                     Некоторые работы
                 </div>
                 <div class="row">
-                    <div class="colls works"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/admiral.png') }}" alt="" title="@yield('work1')"></div>
-                    <div class="colls works"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/knyajevo.png') }}" alt="" title="@yield('work2')"></div>
-                    <div class="colls works"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/Ecoproject.png') }}" alt="" title="@yield('work3')"></div>
+                    <div class="colls works"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/admiral.jpg') }}" alt="" title="@yield('work1')"></div>
+                    <div class="colls works"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/knyajevo.jpg') }}" alt="" title="@yield('work2')"></div>
+                    <div class="colls works"><img data-toggle="tooltip" src="{{ secure_asset('images/thumb/Ecoproject.jpg') }}" alt="" title="@yield('work3')"></div>
                 </div> 
             </div>
 @endsection

@@ -21,11 +21,11 @@ BrowserMatch "Mozilla/4.[0-9]{2}" force-no-vary
     RewriteCond %{HTTP:X-Forwarded-Proto} =http [OR]
 
     # ...or just a plain old http request directly from the client
-    RewriteCond %{HTTP:X-Forwarded-Proto} =""
-    RewriteCond %{HTTPS} !=on
+    # RewriteCond %{HTTP:X-Forwarded-Proto} =""
+    # RewriteCond %{HTTPS} !=on
 
     # Redirect to https version
-    RewriteRule ^ https://%{SERVER_NAME}%/public/$1[L,R=301]
+    # RewriteRule ^ https://%{SERVER_NAME}%/public/$1[L,R=301]
 
     
 </IfModule>
