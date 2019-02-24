@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Pozitivchik\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

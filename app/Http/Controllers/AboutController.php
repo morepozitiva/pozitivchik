@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Http\Controller;
+namespace Pozitivchik\Http\Controller;
 
 use Illuminate\Http\Request;
 

@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Http\Controllers;
+namespace Pozitivchik\Http\Controllers;
 
 use Illminate\Http\Request;
 
