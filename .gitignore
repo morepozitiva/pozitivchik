@@ -12,6 +12,7 @@ resources/views/*/*.*.back.php
 # *.*.back
 # Laravel 5 & Lumen specific
 public/storage
+public/vendor/css
 public/hot
 storage/*.key
 .env
