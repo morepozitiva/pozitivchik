@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://localhost'),
 
     'asset_url' => env('ASSET_URL', null),
 
@@ -169,11 +169,11 @@ return [
         /*
          * Application Service Providers...
          */
-        Pozitivchik\Providers\AppServiceProvider::class,
-        Pozitivchik\Providers\AuthServiceProvider::class,
-        // Pozitivchik\Providers\BroadcastServiceProvider::class,
-        Pozitivchik\Providers\EventServiceProvider::class,
-        Pozitivchik\Providers\RouteServiceProvider::class,
+        App\Providers\AppServiceProvider::class,
+        App\Providers\AuthServiceProvider::class,
+        // App\Providers\BroadcastServiceProvider::class,
+        App\Providers\EventServiceProvider::class,
+        App\Providers\RouteServiceProvider::class,
 
 
     ],
